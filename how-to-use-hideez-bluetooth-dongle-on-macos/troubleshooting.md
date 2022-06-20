@@ -16,7 +16,16 @@ Please, notice: Dongle may shortly blink once when it plugged into the USB port.
 5\. Restart your PC. \
 6\. Pull out and insert the dongle back. \
 7\. In the bluetooth settings, check that Broadcom has changed to Cambridge Silicon. \
-8\. Open the list of Bluetooth devices. Select the device you want to connect. Click the Connect button.&#x20;
+8\. Open the list of Bluetooth devices. Select the device you want to connect. Click the Connect button.\
+\
+_**If the devices still do not connect after following the instructions above, try the following:**_
+
+1. Unplug the dongle.
+2. Turn off Bluetooth on your Mac.
+3. Plug in the dongle.
+4. Wait for 15 seconds.
+5. Turn on Bluetooth.
+6. Connect your devices.
 
 ### If your Bluetooth device does not connect:
 
@@ -31,8 +40,6 @@ Please, notice: Dongle may shortly blink once when it plugged into the USB port.
 1. Open Terminal command on your Mac and type following command **sudo pkill bluetoothd** and hit the **Return** to run.
 2. Enter your Mac login password, wait for 5 seconds, and start using Bluetooth and set up the Bluetooth device.
 
-
-
 ### If none of the options above give the desired result, then try:
 
 #### **Resetting Bluetooth**
@@ -44,11 +51,6 @@ Before you begin, you will need to close all applications.
 3. Reboot the system
 
 Check the operation of Bluetooth; everything should work. Please, be aware that all devices will need to be re-configured.
-
-Option for MacOS Monterey:
-
-1. Open Terminal command on your Mac and type following command  **sudo pkill bluetoothd** and hit the **Return** to run.
-2. Enter your Mac login password, wait for 5 seconds, and start using Bluetooth and set up the Bluetooth device.
 
 #### **Deleting Bluetooth Settings File**
 
