@@ -25,6 +25,10 @@ Before setting up, we are warning you about one thing:
 The re-pairing process only needs to be done once, and they will be remembered.\
 You will need to set up the dongle once, and all settings will be saved for the future.
 
+{% hint style="warning" %}
+Please, follow every step carefully, each one has its own meaning.
+{% endhint %}
+
 ### Step 1
 
 Delete all paired devices in the list of Bluetooth devices.
