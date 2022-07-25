@@ -4,9 +4,11 @@ description: Setting up Hideez USB Bluetooth Dongle on macOS
 
 # How to use Hideez Bluetooth Dongle on macOS
 
+#### This video describes dongle installation process for macOS using the example of Big Sur:
+
 {% embed url="https://www.youtube.com/watch?v=3V04fyXmn9w&feature=emb_imp_woyt" %}
 
-How to install dongle on macOS Monterey
+#### This video shows how to install the dongle on macOS Monterey:
 
 {% embed url="https://www.youtube.com/watch?v=upJWSDDI7YA" %}
 
