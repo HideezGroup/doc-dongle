@@ -41,7 +41,7 @@ Insert the Dongle into the USB port and restart your Mac.
 
 #### Option 1. Commands via Terminal
 
-You can send a special command to the system through the terminal (command line), which will allow the system to use the Hideez Dongle by default for Bluetooth devices.&#x20;
+You can send a special command to the system through the terminal (command line), which will allow the system to use the Hideez Dongle by default for Bluetooth devices.
 
 Enter the following command in the Terminal window:
 
@@ -49,14 +49,13 @@ Enter the following command in the Terminal window:
 sudo nvram bluetoothHostControllerSwitchBehavior=always
 ```
 
-Then you'll need to enter the password from your Mac account and press Enter. \
-
+Then you'll need to enter the password from your Mac account and press Enter.
 
 ### Step 4
 
 Restart your Mac.
 
-The next time you turn on your computer, please Pull out and insert the Dongle into the USB port, and the system will use the Hideez Dongle.&#x20;
+The next time you turn on your computer, please pull out and insert the Dongle into the USB port, and the system will use the Hideez Dongle.&#x20;
 
 If Hideez Dongle is plugged in, the system will use it for your Bluetooth devices, and if it is not available, it will reconnect the Bluetooth devices to the system adapter.&#x20;
 
@@ -96,7 +95,7 @@ Please use this link for free registration and Download - "hardware\_io\_tools\_
 
 2\. Follow the instructions from the [video](https://youtu.be/TR8FTl2nqAM).
 
-To check that this option worked, you can follow the instructions from the last section of this article: "[How to check which Bluetooth your Mac is using now?](./#how-to-check-which-bluetooth-your-mac-is-using-now)"
+To check that this option worked, you can follow the instructions from the last part of the next section.
 
 ### **How to check which Bluetooth your Mac is using now?**
 

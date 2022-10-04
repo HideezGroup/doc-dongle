@@ -13,7 +13,7 @@ Please, notice: Dongle may shortly blink once when it plugged into the USB port.
 {% endhint %}
 
 4\. Write the following command in the terminal: **sudo nvram bluetoothHostControllerSwitchBehavior = always** \
-5\. Restart your PC. \
+5\. Restart your Mac. \
 6\. Pull out and insert the dongle back. \
 7\. In the bluetooth settings, check that Broadcom has changed to Cambridge Silicon. \
 8\. Open the list of Bluetooth devices. Select the device you want to connect. Click the Connect button.\
@@ -31,9 +31,9 @@ _**If the devices still do not connect after following the instructions above, t
 
 1\) Make sure you have the latest OS version. \
 2\) Connect another device. \
-3\) Try the dongle on another PC. \
+3\) Try the dongle on another PC or Mac. \
 4\) If there are many Wi-Fi points nearby, then they will interfere with the functioning of Bluetooth. \
-5\) If you are using a usb hub and the dongle does not work, try connecting it directly to your PC.
+5\) If you are using a usb hub and the dongle does not work, try connecting it directly to your Mac.
 
 ### Option for macOS Monterey:
 
@@ -80,6 +80,6 @@ Here are a couple of useful tips that will help you fix some of the most common 
 * **Power Off and Back On -** The old and proven method of simply performing a soft reset can often do the trick. This is even simpler if you’re setting up Bluetooth on your mobile device, as you don’t even need to turn it off. Just go in and out of airplane mode.
 * **Get Away from Your Wi-Fi -** Since Wi-Fi and Bluetooth operate in a relatively close spectrum, you might experience interference if you’re trying to connect to Bluetooth while near a Wi-Fi device. Move away from your router, and you might find that your Bluetooth will start working.
 * **Charge Up The Device -** Modern computers and laptops have a smart power management function to preserve themselves when their battery is running low. They automatically turn off any functions that drain the battery too much, including Bluetooth. For this reason, you should always make sure that your device has enough juice before pairing it up.
-* **Update Your Device’s Firmware -** If you can’t connect to your PC or Mac, consider that the issue could be coming from the device itself. Check if you have the latest firmware and update it to pair up with the dongle.
+* **Update Your Device’s Firmware -** If you can’t connect to your Mac, consider that the issue could be coming from the device itself. Check if you have the latest firmware and update it to pair up with the dongle.
 
-If you have any questions about these instructions or using Hideez Dongle, please contact our Customer Care team at support@hideez.com. We’ll be happy to help!
+If you have any questions about these instructions or using Hideez Dongle, please contact our Customer Care team at [support@hideez.com](mailto:support@hideez.com). We’ll be happy to help!
