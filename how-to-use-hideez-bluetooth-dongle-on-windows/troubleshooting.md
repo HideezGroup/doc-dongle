@@ -35,7 +35,7 @@ Select with right-clicking **CSR BlueCore Bluetooth** and click **Uninstall devi
 
 Open the Device Manager.&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 **Step 2**
 

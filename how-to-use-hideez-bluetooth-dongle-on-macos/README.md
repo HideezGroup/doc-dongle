@@ -97,6 +97,12 @@ Please use this link for free registration and Download - "hardware\_io\_tools\_
 
 To check that this option worked, you can follow the instructions from the last part of the next section.
 
+{% hint style="info" %}
+Please, approve the connection, if you are using the USB hub with macOS Ventura:\
+\
+![](<../.gitbook/assets/image (3).png>)
+{% endhint %}
+
 ### **How to check which Bluetooth your Mac is using now?**
 
 After you set it all up, you can check that dongle is really connected and ready to work.
@@ -110,3 +116,7 @@ The information about your Bluetooth will be here, and the Manufacturer should b
 ![Hideez USB Bluetooth Dongle](https://ucarecdn.com/b1d270cc-65c1-4ba8-8ad2-ffe04685285c/)
 
 ![Hideez USB Bluetooth Dongle](../.gitbook/assets/dongle.jpg)
+
+If you are on macOS Ventura, please, follow this path: open up the Apple menu and click "About This Mac" to get started. In the About This Mac window, click the “More Info… - General - System Report - Bluetooth":
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Hideez USB Bluetooth Dongle</p></figcaption></figure>

@@ -42,6 +42,6 @@ Choose your Bluetooth device from the list and click on the line.
 
 ![Adding a new Bluetooth device](../.gitbook/assets/2021-02-03\_17-44-45.png)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 The dongle is now connected to your Bluetooth device.
