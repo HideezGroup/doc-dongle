@@ -11,21 +11,21 @@ Click [here](https://help.ubuntu.com/lts/ubuntu-help/bluetooth.html) for officia
 {% endhint %}
 
 {% hint style="warning" %}
-**Please, note:** If your laptop has a built-in Bluetooth adapter, [it will need to be disabled ](https://projectgus.com/2014/09/blacklisting-a-single-usb-device-from-linux/)(See \*advance section below) before using the USB Bluetooth adapter. Don’t uninstall the Bluetooth management software in the last step!
+**Please, note:** If your laptop has a built-in Bluetooth adapter, [it will need to be disabled ](https://projectgus.com/2014/09/blacklisting-a-single-usb-device-from-linux/)before using the USB Bluetooth adapter. Don’t uninstall the Bluetooth management software in the last step!
 {% endhint %}
 
 For other Linux distributions, you’ll need to install the BlueZ Bluetooth stack and the BlueMan Bluetooth Manager. Consult your distribution’s website to see if the Bluez and Blueman software are available as a ready-to-install software package.
 
-**Turning on Bluetooth**
+#### **Turning on Bluetooth**
 
 1. Plug in the Bluetooth adapter
 2. Click the Bluetooth Icon in the toolbar
 3. Click turn on Bluetooth
 
-**Connecting a Device**
+#### **Connecting a Device**
 
 1. Click the Bluetooth icon in the menu bar and select Set Up New Device.
-2. Make the other Bluetooth device [discoverable or visible](https://help.ubuntu.com/lts/ubuntu-help/bluetooth-visibility.html) and place it within 10 meters (about 33 feet) of your computer. Click Continue. Your computer will begin searching for devices.
+2. Make the other Bluetooth device [discoverable or visible](https://help.ubuntu.com/lts/ubuntu-help/bluetooth-visibility.html) and place it within 20 meters (about 65 feet) of your computer. Click Continue. Your computer will begin searching for devices.
 3. If there are too many devices listed, use the Device type drop-down to display only a single type of device in the list.
 4. Click the PIN option to set how a PIN will be delivered to the other device.
 5. The automatic PIN setting will use a six-digit numerical code. A device with no input keys or screen, such as a mouse or headset, may require a specific PIN such as 0000, or no PIN at all. Check your device’s manual for the proper setting.
@@ -37,7 +37,7 @@ For other Linux distributions, you’ll need to install the BlueZ Bluetooth stac
 
 9. A message appears when the connection successfully completes. Click Close.
 
-**Set Playback Devices**
+#### **Set Playback Devices**
 
 1. Click the Speaker icon on the toolbar and select Audio Setup
 2. Select the Audio Hardware Setup Tab
@@ -47,10 +47,12 @@ For other Linux distributions, you’ll need to install the BlueZ Bluetooth stac
 
 The KDE and GNOME desktop environments provide Bluetooth configuration and management utilities. If not installed by default, you will need to install them with your Linux distribution’s package manager.
 
-Debian, Linux, Ubuntu, and Ubuntu derivatives usually have the Bluez Bluetooth stack installed by default along with a Bluetooth manager. We recommend opening a terminal window and typing the following commands to install the necessary packages:
+Debian, Linux, Ubuntu, and Ubuntu derivatives usually have the Bluez Bluetooth stack installed by default along with a Bluetooth manager. We recommend opening a terminal window and typing the following command to install the necessary packages:
 
 ```
 sudo apt-get install bluez blueman
 ```
 
-The above command will install the Bluez Bluetooth stack and the Blueman Bluetooth manager. If they are already installed, apt-get will report that the packages are already present on your system.
+If the packages are already installed, apt-get will report that the packages are already present on your system.
+
+Then follow the steps [described above](how-to-use-hideez-bluetooth-dongle-on-linux.md#turning-on-bluetooth).
