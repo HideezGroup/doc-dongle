@@ -5,4 +5,5 @@
   * [Troubleshooting](how-to-use-hideez-bluetooth-dongle-on-macos/troubleshooting.md)
 * [How to use Hideez Bluetooth Dongle on Windows 10](how-to-use-hideez-bluetooth-dongle-on-windows/README.md)
   * [Troubleshooting](how-to-use-hideez-bluetooth-dongle-on-windows/troubleshooting.md)
+* [How to use Hideez Bluetooth Dongle on Linux](how-to-use-hideez-bluetooth-dongle-on-linux.md)
 * [Documentation Portal (home)](https://mayasokolskaya.gitbook.io/documentation-portal/)
