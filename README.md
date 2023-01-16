@@ -16,3 +16,7 @@ Bluetooth Low Energy allows your devices to remain paired to each other without 
 \
 **High compatibility**\
 Hideez Dongle works with macOS and Windows 10 laptops or desktop computers via a standard USB 2.0 or 3.0 port.
+
+{% hint style="info" %}
+Україномовну версію цього керівництва можна знайти [тут](https://dongle-ua.hideez.com/).
+{% endhint %}
