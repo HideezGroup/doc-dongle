@@ -59,7 +59,9 @@ The next time you turn on your computer, please pull out and insert the Dongle i
 
 If Hideez Dongle is plugged in, the system will use it for your Bluetooth devices, and if it is not available, it will reconnect the Bluetooth devices to the system adapter.&#x20;
 
+{% hint style="info" %}
 To make your system adapter default again, you must open Terminal and enter a special command to cancel the previous setting:
+{% endhint %}
 
 ```
 sudo nvram -d bluetoothHostControllerSwitchBehavior
